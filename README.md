@@ -1,6 +1,6 @@
 - 👋 hi, i’m @kebyzak
 - 👀 i’m interested in ```coding```
-- 🌱 i’m currently learning Flutter
+- 🌱 i’m currently learning Kotlin & Flutter
 - 📫 my telegram account: @kebyzak
 
 <!---
